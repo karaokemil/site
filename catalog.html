@@ -1,0 +1,200 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KaraokeMil</title>
+
+<style type="text/css">
+body {
+    background-color: #3C3C3C;
+}
+body, table, td, p, a, li, blockquote {
+    -webkit-text-size-adjust: none!important;
+    font-family: "Segoe UI Light";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+}
+button {
+	width: 90%;
+}
+
+@media screen and (max-width:600px) {
+body, table, td, p, a, li, blockquote {
+	-webkit-text-size-adjust: none!important;
+	font-family: sans-serif;
+}
+table {
+	width: 100%;
+}
+.footer {
+	height: auto !important;
+	max-width: 48% !important;
+	width: 48% !important;
+}
+table.responsiveImage {
+	height: auto !important;
+	max-width: 30% !important;
+	width: 30% !important;
+}
+table.responsiveContent {
+	height: auto !important;
+	max-width: 66% !important;
+	width: 66% !important;
+}
+.top {
+	height: auto !important;
+	max-width: 48% !important;
+	width: 48% !important;
+}
+.catalog {
+	margin-left: 0%!important;
+}
+}
+
+@media screen and (max-width:480px) {
+body, table, td, p, a, li, blockquote {
+	-webkit-text-size-adjust: none!important;
+	font-family: sans-serif;
+}
+table {
+	width: 100% !important;
+	border-style: none !important;
+}
+.footer {
+	height: auto !important;
+	max-width: 96% !important;
+	width: 96% !important;
+}
+.table.responsiveImage {
+	height: auto !important;
+	max-width: 96% !important;
+	width: 96% !important;
+}
+.table.responsiveContent {
+	height: auto !important;
+	max-width: 96% !important;
+	width: 96% !important;
+}
+.top {
+	height: auto !important;
+	max-width: 100% !important;
+	width: 100% !important;
+}
+.catalog {
+	margin-left: 0%!important;
+}
+button {
+	width: 90%!important;
+}
+}
+#demo {
+	margin: 0 auto;
+	margin-top: 10px;
+	text-align: center;
+	color: #FFFFFF;
+}
+#demo_info {
+    color: #FFFFFF; /* cor do texto dizendo quantos registros existem */
+    text-align: center; /* centralizar */
+	margin-top: 0px;
+}
+#demo_paginate {
+  color: #FFFFFF; /* cor do texto de avançar ou retroceder páginas */
+  text-align: center;
+  margin-bottom: 10px;
+}
+.dataTables_filter label {
+  color: #FFFFFF;
+  margin-bottom: 10px;
+}
+.dataTables_paginate a {
+  margin: 0 5px; /* adjust the value to add more or less spacing */
+}
+</style>
+</head>
+<body>
+<table width="100%" height="301" cellpadding="0"  cellspacing="0">
+  <tbody>
+    <tr>
+      <td><table width="100%"  align="center" cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr> 
+              <td width="100%"><table width="100%"  align="left" cellpadding="0" cellspacing="0" bgcolor="#663399">
+                  <tr> 
+                    <td align="center" style="font-size: 32px; font-weight: 300; line-height: 2.5em; color: #929292; font-family: sans-serif;"><span style="color: #99ffff; font-size: 32px; font-family: 'Segoe UI Black'; font-style: italic;">Karaoke</span><span style="color: #33ff99; font-family: 'Segoe UI Black'; font-style: italic;">Mil</span></td>
+                  </tr>
+                  <tr> 
+                    <td align="center" style="font-size: 16px; font-weight:24; color: #929292; font-family: sans-serif;"><img src="../Apoio/Photoshop/karaokeico.png" width="100" height="102" alt=""/></td>
+                  </tr>
+                  <tr>
+                    <td height="20" align="center" style="font-size: 16px; font-weight:24; color: #929292; font-family: sans-serif;">&nbsp;</td>
+                  </tr>
+                </table></td>
+            </tr>
+            <tr> 
+              <td style="font-size: 0; line-height: 0;" height="10"><table width="100%" align="left"  cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td style="font-size: 0; line-height: 0;" height="12">&nbsp;</td>
+                  </tr>
+                </table></td>
+            </tr>
+        <div id="container">
+            <table id="demo" border="2">
+                <thead>
+				<br>
+				<br>
+                    <tr>
+                        <th style="color: #FFFFFF">Artista</th>
+						<th style="color: #FFFFFF">Música</th>
+						<th style="color: #FFFFFF">Catálogo</th>
+						<th style="color: #FFFFFF">Código</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+        <script src="https://code.jquery.com/jquery-3.6.3.js"></script>
+        <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.13.2/datatables.min.js"></script>
+        <script type="text/javascript" src="example.js"></script>
+            <tr> 
+              <td style="font-size: 0; line-height: 0;" height="10"><table width="100%" align="left"  cellpadding="0" cellspacing="0">
+                  </table>
+                <table width="70%" border="0" align="center">
+                  <tbody>
+                    <tr>
+
+                    </tr>
+                  </tbody>
+                </table>
+                <p>&nbsp;</p>
+                <p>  <span style="text-align: center"></span></p>
+                <span style="text-align: center">
+                <script>
+				  $(document).ready(function() {
+					$('000000002EEF5000').DataTable();
+				  });
+				</script>
+                </span>
+                <p><a href="main.html" style="background-color: #AAAAAA; text-align: center; padding: 10px 10px 10px 10px; margin: 0px 0px 0px 0px; text-decoration:none; color: #663399; font-family: 'Segoe UI Black'; font-style: italic; font-weight: 400; font-size: 24px;">VOLTAR</a></p>
+                <table width="100%" align="left"  cellpadding="0" cellspacing="0">
+                  <tr></tr>
+                </table></td>
+            </tr>
+            <tr>
+              <td><table class="footer" width="100%" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td height="36"><p style="font-size: 14px; font-style: normal; font-weight: normal; color: #C7C7C7; line-height: 1.8; text-align: center; padding-top: 0px; margin-left: 20px; margin-right: 20px; font-family: 'Segoe UI Light';">&copy; KARAOKEMIL | O MELHOR KARAOKÊ DO BRASIL | <a href="aboutus.html" style="font-size: 14px; font-style: normal; font-weight: normal; color: #C7C7C7; line-height: 1.8; text-decoration:none; text-align: center; padding-top: 10px; margin-left: 0px; margin-right: 0px; font-family: 'Segoe UI Light';">SOBRE NÓS</a></p></td>
+                  </tr>
+                </table></td>
+            </tr>
+          </tbody>
+        </table></td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>
