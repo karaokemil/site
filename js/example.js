@@ -10,7 +10,7 @@
       "unitnumber-desc": function(a, b) { return b - a; }
   } )
   var fetchData = function(callback) {
-      var data = [
+            var data = [
         ["1 Kilo","Deixe Me Ir","Brasil",00001],
         ["5 A Seco","Em Paz","Brasil",00002],
         ["14 Bis","Bola De Meia Bola De Gude","Brasil",00003],
@@ -1544,6 +1544,7 @@
         ["DETONAUTAS ","POR ONDE VOCÊ ANDA","Brasil",01531],
         ["Detonautas Roque Clube","Acredite No Seu Coração","Brasil",01532],
         ["DG e Batidão Stronda, Felipe Amorim, MC Danny","Sem Sentimento","Brasil",01533],
+
         ["Dhi Ribeiro","Aula De Matemática","Brasil",01534],
         ["Dhi Ribeiro","PARA USO EXCLUSIVO DA CASA","Brasil",01535],
         ["Di Ferrero","Thiaguinho - NO MESMO LUGAR","Brasil",01536],
@@ -1617,6 +1618,7 @@
         ["Disney Frozen","Gabi Porto - O - Vejo Uma Porta Abrir","Brasil",01604],
         ["Disney Frozen","Taryn - Minha Intuicao","Brasil",01605],
         ["Disney Frozen","Taryn Szpilman - Livre Estou","Brasil",01606],
+
         ["Disney Moana","Saulo Vasconcellos - DE NADA","Brasil",01607],
         ["Disney Viva a Vida é uma Festa","Rogério Flausino - LEMBRE DE MIM","Brasil",01608],
         ["Dj Adriano","Chuta Que É Laço","Brasil",01609],
@@ -3918,6 +3920,7 @@
         ["Marcos Sabino","Reluz","Brasil",03905],
         ["Marcus Viana","A Miragem","Brasil",03906],
         ["Marcynho Sensação","Revoada no Colchão","Brasil",03907],
+
         ["Marcynho Sensação","Viela","Brasil",03908],
         ["Marcynho Sensação, MC Henry","Descendo Sim","Brasil",03909],
         ["Marcynho Sensação, MC Mari, Wesley Safadão","Chá de Chifre","Brasil",03910],
@@ -5747,6 +5750,7 @@
         ["Seu Cuca","Indecisão","Brasil",05734],
         ["Seu Jorge","A Doida","Brasil",05735],
         ["Seu Jorge","Alma De Guerreiro","Brasil",05736],
+
         ["Seu Jorge","Burguesinha","Brasil",05737],
         ["Seu Jorge","Cotidiano","Brasil",05738],
         ["Seu Jorge","Felicidade","Brasil",05739],
@@ -8741,6 +8745,7 @@
         ["Anne Murray","I Can See Arkansas","Internacional",08728],
         ["Anne Murray","I Just Fall In Love Again","Internacional",08729],
         ["Anne Murray","Just Another Woman In Love","Internacional",08730],
+
         ["Anne Murray","Just One Look","Internacional",08731],
         ["Anne Murray","Little Drummer Boy","Internacional",08732],
         ["Anne Murray","Love Song","Internacional",08733],
@@ -14028,6 +14033,7 @@
         ["Catfish And The Bottlemen","Outside [ME Karaoke]","Internacional",14015],
         ["Catfish And The Bottlemen","Soundcheck [ME Karaoke]","Internacional",14016],
         ["Catherine Britt","Can't Change A Thing [SF Karaoke]","Internacional",14017],
+
         ["Catherine Britt","Upside Of Being Down [CB Karaoke]","Internacional",14018],
         ["Catherine Durand","La Lune Est Au Ciel [French Karaoke]","Internacional",14019],
         ["Catherine Durand","Peu Importe [French Karaoke]","Internacional",14020],
@@ -14196,6 +14202,7 @@
         ["Celine Dion","Power Of Love [SC Karaoke]","Internacional",14183],
         ["Celine Dion","Power Of The Dream [SC Karaoke]","Internacional",14184],
         ["Celine Dion","Prayer [TT Karaoke]","Internacional",14185],
+
         ["Celine Dion","Real Emotion [Atoy Karaoke]","Internacional",14186],
         ["Celine Dion","Reason [CB Karaoke]","Internacional",14187],
         ["Celine Dion","Recovering [DC Karaoke]","Internacional",14188],
@@ -16661,6 +16668,7 @@
         ["Cracker","I Hate My Generation [SC Karaoke]","Internacional",16648],
         ["Cracker","Low [MH Karaoke]","Internacional",16649],
         ["Craig And Dean Phillips","You Are My King [SC Karaoke]","Internacional",16650],
+
         ["Craig And Sting David","Rise And Fall [SF Karaoke]","Internacional",16651],
         ["Craig Campbell","Family Man [CB Karaoke]","Internacional",16652],
         ["Craig Campbell","Fish [CB Karaoke]","Internacional",16653],
@@ -27284,6 +27292,7 @@
         ["J.L.S.","Billion Lights","Internacional",27271],
         ["J.L.S. Ft Dev","She Makes Me Wanna","Internacional",27272],
         ["J.L.S. Ft Dev","She Makes We Wanna (Male Solo)","Internacional",27273],
+
         ["Ja Lil' Mo Rule","Put It On Me","Internacional",27274],
         ["Ja Rule","Always On Time (Solo)","Internacional",27275],
         ["Ja Rule","Always On Time","Internacional",27276],
@@ -31740,6 +31749,7 @@
         ["Kellie Osbourne","Papa Don't Preach","Internacional",31727],
         ["Kellie Osbourne","Shut Up","Internacional",31728],
         ["Kellie Pickler","Best Days Of Your Life","Internacional",31729],
+
         ["Kellie Pickler","Didn't You Know How Much I Loved You","Internacional",31730],
         ["Kellie Pickler","Don't You Know You're Beautiful","Internacional",31731],
         ["Kellie Pickler","I Wonder","Internacional",31732],
@@ -33516,6 +33526,7 @@
         ["Lee Marvin","Wandrin' Star","Internacional",33503],
         ["Lee Mead","Any Dream Will Do","Internacional",33504],
         ["Lee Michaels","Do You Know What I Mean","Internacional",33505],
+
         ["Lee Roy Parnell","A Little Bit Of You","Internacional",33506],
         ["Lee Roy Parnell","All That Matters Anymore","Internacional",33507],
         ["Lee Roy Parnell","Givin' Water To A Drowning Man","Internacional",33508],
@@ -33581,6 +33592,7 @@
         ["Lemon Tree","Peter, Paul And Mary","Internacional",33568],
         ["Lemonheads","Into Your Arms","Internacional",33569],
         ["Lemonheads","Mrs. Robinson","Internacional",33570],
+
         ["Len","Feelin' Alright","Internacional",33571],
         ["Len","Steal My Sunshine (Duo)","Internacional",33572],
         ["Len","Steal My Sunshine","Internacional",33573],
@@ -34750,6 +34762,7 @@
         ["Loredana Berte'","In Alto Mare","Internacional",34737],
         ["Loredana Bertè","Musica E Parole","Internacional",34738],
         ["Loredana Bertè","Non Mi Pento (Coro)","Internacional",34739],
+
         ["Loreen","Euphoria (Eurovision 2012 Winner)","Internacional",34740],
         ["Loreen","Euphoria","Internacional",34741],
         ["Loreen (Eurovision 2012 Sweden)","Euphoria","Internacional",34742],
@@ -36225,6 +36238,7 @@
         ["Marie-Chantale Toupin","Les Faits Contraire","Internacional",36212],
         ["Marie-Elaine Thibert","Dans Chacun De Mes Silences","Internacional",36213],
         ["Marie-Elaine Thibert","Encore Une Fois","Internacional",36214],
+
         ["Marie-Elaine Thibert","Encore Une Fois-Moondust","Internacional",36215],
         ["Marie-Elaine Thibert","Fille De Ville","Internacional",36216],
         ["Marie-Elaine Thibert","La Quete","Internacional",36217],
@@ -38506,6 +38520,7 @@
         ["Modjo","Lady","Internacional",38493],
         ["Moe Bandy","Following The Feeling","Internacional",38494],
         ["Moe Bandy","It Was Always So Easy","Internacional",38495],
+
         ["Moe Bandy","Just Good Ol' Boys","Internacional",38496],
         ["Moe Bandy","Till I'm too Old to Die Young","Internacional",38497],
         ["Moe Bandy","Two Lonely People","Internacional",38498],
@@ -49363,6 +49378,7 @@
         ["Supremes","You Keep Me Hanging On_002","Internacional",49350],
         ["Surface","First Time","Internacional",49351],
         ["Surface","Happy","Internacional",49352],
+
         ["Surface","Never Gonna Let You Down","Internacional",49353],
         ["Surface","Shower Me With Your Love_001","Internacional",49354],
         ["Surface","Shower Me With Your Love_002","Internacional",49355],
@@ -54457,7 +54473,27 @@
         ["Kendrick Lamar","DUCKWORTH.","Internacional",54444],
         ["Kendrick Lamar","ELEMENT.","Internacional",54445],
         ["Kendrick Lamar","m.A.A.d City","Internacional",54446],
-        ["PK part. Belo","Indomável","Brasil",54447]
+        ["PK part. Belo","Indomável","Brasil",54447],
+        ["Ne-Yo","Mad","Internacional",54448],
+        ["Panic! At The Disco","I Constantly Thank God For Esteban","Internacional",54449],
+        ["Sam Smith ft. Kim Petras","Unholy (Body Shop)","Internacional",54450],
+        ["Shawn Mendes feat. Justin Bieber","Monster","Internacional",54451],
+        ["Stephen Sanchez","Until I Found You","Internacional",54452],
+        ["The Fray","You Found Me","Internacional",54453],
+        ["Treyce","Lovezinho","Brasil",54454],
+        ["Zé Felipe, Ana Castela, Luan Pereira","Roça em Mim","Brasil",54455],
+        ["Anavitória part. Lagum","Universo de Coisas que eu Desconheço","Brasil",54456],
+        ["Daniel Caesar ft. H.E.R.","Best Part","Internacional",54457],
+        ["Ed Sheeran","Nina","Internacional",54458],
+        ["Eminem","Rap God","Internacional",54459],
+        ["Giulia Be","Depois do Universo","Brasil",54460],
+        ["Gloria Groove","Vermelho","Brasil",54461],
+        ["Grupo Revelação","Só Depois","Brasil",54462],
+        ["Hillsong United","Oceans (Where Feet May Fail)","Internacional",54463],
+        ["Iza","Sem Filtro","Brasil",54464],
+        ["Kanye West feat. T-Pain","Good Life","Internacional",54465],
+        ["Menos é Mais","Fatalmente, Separação, Temporal","Brasil",54466],
+        ["New West","Those Eyes","Internacional",54467]
         ];
       callback({data:data});
   };
