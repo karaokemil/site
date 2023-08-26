@@ -54495,7 +54495,15 @@
               ["Taylor Swift","Anti-Hero","Internacional","54478"],
               ["Harry Styles","Sign of the Times","Internacional","54479"],
               ["Beyoncé","Cuff It","Internacional","54480"],
-              
+              ["Gloria Grove","A Queda","Brasil","54481"],
+              ["MC Bin Laden","Shake It Bololo","Brasil","54482"],
+              ["Harry Styles","Adore You","Internacional","54483"],
+              ["SZA","Kill Bill","Internacional","54484"],
+              ["Olivia Rodrigo","favorite crime","Internacional","54485"],
+              ["Khalid","Talk","Internacional","54486"],
+              ["Daniel Caesar ft. Kali Uchis","Get You","Internacional","54487"],
+              ["Roddy Ricch","The Box","Internacional","54488"],
+              ["Exaltasamba","Calma Amor","Brasil","54489"],             
         ];
       callback({data:data});
   };
