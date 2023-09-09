@@ -54505,6 +54505,16 @@
               ["Roddy Ricch","The Box","Internacional","54488"],
               ["Exaltasamba","Calma Amor","Brasil","54489"],
               ["Alcione","Você Me Vira a Cabeça","Brasil","54490"],
+              ["Olivia Rodrigo","bad idea right?","Internacional","54491"],
+              ["MC Cabelinho","Essência de Cria (part. Bielzin, Poze do Rodo e TZ da Coronel)","Brasil","54492"],
+              ["The Weeknd","Die For You","Internacional","54493"],
+              ["Olivia Rodrigo","vampire","Internacional","54494"],
+              ["Jão","Pilantra (part. Anitta)","Brasil","54495"],
+              ["Veigh","Novo Balanço","Brasil","54496"],
+              ["Melody","Love Love (part. Naldo Benny)","Brasil","54497"],
+              ["Luisa Sonza","Penhasco 2 (feat. Demi Lovato)","Brasil","54498"],
+              ["Luisa Sonza","Chico","Brasil","54499"],
+              ["Bibi Babydoll e DJ Brunin XM","Automotivo Bibi Fogosa","Brasil","54500"]              
         ];
       callback({data:data});
   };
