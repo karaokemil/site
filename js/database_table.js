@@ -54514,7 +54514,11 @@
               ["Melody","Love Love (part. Naldo Benny)","Brasil","54497"],
               ["Luisa Sonza","Penhasco 2 (feat. Demi Lovato)","Brasil","54498"],
               ["Luisa Sonza","Chico","Brasil","54499"],
-              ["Bibi Babydoll e DJ Brunin XM","Automotivo Bibi Fogosa","Brasil","54500"]              
+              ["Bibi Babydoll e DJ Brunin XM","Automotivo Bibi Fogosa","Brasil","54500"],
+              ["YUNGBLUD","Psychotic Kids","Internacional","54501"],
+              ["Lil Peep","Star Shopping","Internacional","54502"],
+              ["The Neighbourhood","Daddy Issues","Internacional","54503"],
+              ["Lil Uzi Vert","Just Wanna Rock","Internacional","54504"]
         ];
       callback({data:data});
   };
