@@ -54518,7 +54518,16 @@
               ["YUNGBLUD","Psychotic Kids","Internacional","54501"],
               ["Lil Peep","Star Shopping","Internacional","54502"],
               ["The Neighbourhood","Daddy Issues","Internacional","54503"],
-              ["Lil Uzi Vert","Just Wanna Rock","Internacional","54504"]
+              ["Lil Uzi Vert","Just Wanna Rock","Internacional","54504"],
+              ["Gloria Groove","Radar","Brasil","54501"],
+              ["Maiara e Maraisa","Medo Bobo","Brasil","54502"],
+              ["Joelma","Voando Pro Pará (Tomar um Tacacá)","Brasil","54503"],
+              ["Luan Pereira, Mc Daniel, Mc Ryan SP","Dentro da Hilux","Brasil","54504"],
+              ["Yago Oproprio","Imprevisto","Brasil","54505"],
+              ["Doja Cat feat. The Weeknd","You Right","Internacional","54506"],
+              ["Lewis Capaldi","Someone You Loved","Internacional","54507"],
+              ["MC Livinho","Hoje Eu Vou Parar na Gaiola","Brasil","54508"],
+              ["MC Livinho","Cheia de Marra","Brasil","54509"],              
         ];
       callback({data:data});
   };
