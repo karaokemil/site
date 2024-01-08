@@ -54542,7 +54542,8 @@
               ["The Neighbourhood","W.D.Y.W.F.M.","Internacional","54525"],
               ["The Neighbourhood","The Beach","Internacional","54526"],
               ["The Neighbourhood","Flawless","Internacional","54527"],
-              ["The Neighbourhood","Afraid","Internacional","54528"],                         
+              ["The Neighbourhood","Afraid","Internacional","54528"],
+              ["Nando Reis","Relicário (part. Cássia Eller)","Brasil","54529"]                       
         ];
       callback({data:data});
   };
