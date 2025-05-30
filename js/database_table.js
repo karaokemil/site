@@ -1,3 +1,4 @@
+
 (function() {
     $.extend($.fn.dataTableExt.oSort, {
         "lastname-sort-pre": function(a) {
@@ -54381,6 +54382,13 @@
               ["System of a Down","Question!","Internacional","54535"],
               ["Post Malone","Hollywood's Bleeding","Internacional","54536"],
               ["Ed Sheeran","Shivers","Internacional","54537"],
+              ["Billie Eilish","bellyache","Internacional","54538"],
+              ["Billie Eilish","Birds of a Feather","Internacional","54539"],
+              ["Billie Eilish","lovely (feat. Khalid)","Internacional","54540"],
+              ["Anavitória","Lisboa (part. Lenine)","Brasil","54541"],
+              ["Ludmilla","Ludsessions #2 (feat. Gloria Groove)","Brasil","54542"],
+              ["Iguaria","Luísa Sonza","Brasil","54543"],
+              ["Bruno Mars","Die With A Smile (feat. Lady Gaga)","Internacional","54544"],
         ];
       callback({data:data});
   };
