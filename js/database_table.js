@@ -54389,6 +54389,7 @@
               ["Ludmilla","Ludsessions #2 (feat. Gloria Groove)","Brasil","54542"],
               ["Iguaria","Luísa Sonza","Brasil","54543"],
               ["Bruno Mars","Die With A Smile (feat. Lady Gaga)","Internacional","54544"],
+              ["Drake","Life is Good","Internacional","54545"],
         ];
       callback({data:data});
   };
